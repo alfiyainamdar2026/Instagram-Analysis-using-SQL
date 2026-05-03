@@ -21,6 +21,7 @@ This project analyzes Instagram content performance to identify key engagement d
 
 ## 📂 Project Files
 - `Instagram_SQL_Analysis.sql pptx` → Contains all SQL queries
+- output_screenshorts → Contains all Sql Query Output
 - `Instagram_Presentation.pptx` → https://youtu.be/zykA-AX-KOE  (Business presentation with insights)
 - `README.md` → Project documentation
 
